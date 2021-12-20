@@ -1,11 +1,11 @@
-Body {
-  background: rgb(240, 171, 82);
+.App img {
+  border-radius: 95px;
 }
 .App-header {
   margin: 30px 0;
 }
 .App-logo {
-  max-width: 150px;
+  max-width: 200px;
   display: block;
   margin: 0 auto;
 }

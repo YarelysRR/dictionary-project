@@ -1,4 +1,4 @@
-import logo from "./logo-YR.PNG";
+import logo from "./Logo-YR-Solo.png";
 import "./App.css";
 import Dictionary from "./Dictionary";
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -12,7 +12,7 @@ export default function App() {
         </header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Equality" />
         </main>
         <footer className="App-footer">
           <small>
