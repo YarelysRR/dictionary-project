@@ -9,12 +9,12 @@
   margin-right: 12px;
   border-radius: 20px;
   transition: all 150ms ease-in-out;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: bold;
 }
 
 .Phonetic a:hover {
-  background: #25befa;
+  background: #ade3f8;
   color: black;
 }
 

@@ -21,6 +21,14 @@ export default function App() {
             <a href="https://github.com/YarelysRR/dictionary-project">
               open-sourced
             </a>
+            <br />
+            Check how is the weather in your city
+            <a
+              href="https://mystifying-feynman-400cd9.netlify.app/"
+              className="mx-1"
+            >
+              here
+            </a>
           </small>
         </footer>
       </div>
